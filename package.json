@@ -14,8 +14,7 @@
     "css"
   ],
   "dependencies": {
-    "colors": "http://192.168.68.104:8082/artifactory/api/npm/npm-virtual/",
-    "renovate": "^38.54.1"
+    "colors": "http://192.168.68.104:8082/artifactory/npm-virtual/colors/-/colors-1.4.0.tgz"
   },
   "publishConfig": {
     "registry": "http://192.168.68.104:8082/artifactory/api/npm/npm-local/"
